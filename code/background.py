@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+from code.entity import Entity
 
 class Background:
     def __init__(self):
